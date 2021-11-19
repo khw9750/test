@@ -1,5 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
+	pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
@@ -7,8 +7,14 @@
 <title>Insert title here</title>
 </head>
 <body>
-  <h3>git hub프로젝트</h3>
-  <hr>
-  <h1>작업완료22</h1>
+	<h3>git hub프로젝트</h3>
+	<hr>
+	<h1>작업완료22</h1>
+	<ul>
+
+		<li>목록</li>
+		<li>목록2</li>
+
+	</ul>
 </body>
 </html>
