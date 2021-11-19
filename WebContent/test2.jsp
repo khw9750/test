@@ -7,8 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-  <h3>git hub프로젝트</h3>
-  <hr>
-  <h1>작업완료22</h1>
+<h1>여기다 새로 작성</h1>
 </body>
 </html>
